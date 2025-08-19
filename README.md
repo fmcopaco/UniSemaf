@@ -12,7 +12,7 @@ You can freely choose the lights used, the aspects they display, and whether the
 
 Every aspect is defined by four CV:
 - The first one enables the output for this aspect, so you can have more than one semaphore in the decoder if there are free outputs.
-- The second one selects the light output goes on or off.
+- The second one selects if the light output goes on or off.
 - The third one selects if the light output must flash or not.
 - The last one select the phase of the flashing.
 
@@ -43,3 +43,10 @@ Semaphore decoder, with 5 outputs and 8 aspects using the PIC12F629 or the PIC12
 
  ![UniSemaf](images/DecoUniSch.png)
 
+---
+
+Paco Cañada
+
+https://usuaris.tinet.cat/fmco/
+
+https://fmcopaco.github.io/
